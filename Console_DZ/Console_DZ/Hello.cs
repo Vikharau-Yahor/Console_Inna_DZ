@@ -10,7 +10,7 @@ namespace Console_DZ
     {
         public void SayHello()
         {
-            Console.WriteLine("Hello");
+            Console.Write("Hello");
         }
     }
 }
